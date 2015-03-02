@@ -1,0 +1,20 @@
+{
+    "name": "bamboomachine/micro-fw-demoapp",
+    "authors": [
+        {
+            "name": "Radim Sückr",
+            "email": "radim.suckr@gmail.com",
+            "name": "Lukáš Pohlreich",
+            "email": "pohlreichlukas@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/BambooMachine/MicroFW.git"
+        }
+    ],
+    "require": {
+        "bamboomachine/micro-fw": "dev-master"
+    }
+}
