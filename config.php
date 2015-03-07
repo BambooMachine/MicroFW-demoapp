@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'TEMPLATE_DIR' => './templates/',
+    'TEMPLATE_DIRS' => ['./templates/'],
 ];
